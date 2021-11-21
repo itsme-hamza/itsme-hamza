@@ -8,5 +8,13 @@
 
 ### Skills
 
+• HTML
+• CSS
+• JavaScript
+
+### Currently Learning
+
+• React
+•jQuery
 
 
