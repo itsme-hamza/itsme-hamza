@@ -6,7 +6,7 @@
 
 <hr> 
 
-## Skills
+## Skills 💻
 
 • HTML
 
@@ -14,7 +14,7 @@
 
 • JavaScript
 
-## Currently Learning
+## Currently Learning 📚
 
 • React
 
