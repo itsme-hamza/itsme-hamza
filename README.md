@@ -6,15 +6,18 @@
 
 <hr> 
 
-### Skills
+## Skills
 
 • HTML
+
 • CSS
+
 • JavaScript
 
-### Currently Learning
+## Currently Learning
 
 • React
-•jQuery
+
+• jQuery
 
 
