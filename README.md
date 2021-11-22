@@ -17,4 +17,4 @@
 
 <h3 align="left">📫 Reach Out To Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hamza-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-khan/) [![Mail Badge](https://img.shields.io/badge/-hamzak1738-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hamzak1738@gmail.com@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Hamza-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-khan-bb8a60225/) [![Mail Badge](https://img.shields.io/badge/-hamzak1738-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hamzak1738@gmail.com@gmail.com)
