@@ -4,9 +4,9 @@
 <hr>
 
 <h3 align="left">📚 What I'm working on: </h3>
-<p align="left">• My online ePortfolio using HTML, CSS, JavaScript and jQuery</p>
-<p align="left">• Basic Weather App using HTML, CSS, JavaScript and OpenWeatherMap API</p>
-<p align="left">• A skeleton Nike landing page replica using HTML and CSS</p>
+<p align="left">• A movie directory using React.JS and TMDB API</p>
+<p align="left">• Basic Weather App using React.JS and OpenWeatherMap API</p>
+<p align="left">• The SNKRS app replica</p>
 
 <hr>
 
